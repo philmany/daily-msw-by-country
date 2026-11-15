@@ -1,0 +1,194 @@
+iso3,country,status,region,income_group_2022,data_year,data_basis,annual_tonnes,tonnes_per_day,kg_per_person_per_day,point_of_measurement,flag,note
+AFG,Afghanistan,UN member,S. Asia,LIC,2022,modelled (World Bank 2022 baseline),3268836.06,8955.72,0.222,,,Reported figure is from 2017 (older than cutoff); modelled 2022 value used
+ALB,Albania,UN member,Eur. & Cent. Asia,UMIC,2022,modelled (World Bank 2022 baseline),768006.45,2104.13,0.743,,,Reported figure is from 2021 (older than cutoff); modelled 2022 value used
+DZA,Algeria,UN member,Mid. East & N. Africa,LMIC,2022,modelled (World Bank 2022 baseline),14286747.44,39141.77,0.867,,,Reported figure is from 2020 (older than cutoff); modelled 2022 value used
+AND,Andorra,UN member,Eur. & Cent. Asia,HIC,2022,modelled (World Bank 2022 baseline),39552.2,108.36,1.37,,,Reported figure is from 2021 (older than cutoff); modelled 2022 value used
+AGO,Angola,UN member,Sub-Saharan Africa,LMIC,2022,modelled (World Bank 2022 baseline),8090354.53,22165.35,0.632,,,Reported figure is from 2014 (older than cutoff); modelled 2022 value used
+ATG,Antigua & Barbuda,UN member,L. Amer. & the Caribbean,HIC,2022,modelled (World Bank 2022 baseline),33623.18,92.12,0.995,,,Reported figure is from 2012 (older than cutoff); modelled 2022 value used
+ARG,Argentina,UN member,L. Amer. & the Caribbean,UMIC,2022,reported,19345000.0,53000.0,1.169,Not stated,,
+ARM,Armenia,UN member,Eur. & Cent. Asia,UMIC,2022,reported,532698.9,1459.45,0.51,Not stated,,
+AUS,Australia,UN member,E. Asia & Pacific,HIC,2022,modelled (World Bank 2022 baseline),14201100.12,38907.12,1.492,,,Reported figure is from 2021 (older than cutoff); modelled 2022 value used
+AUT,Austria,UN member,Eur. & Cent. Asia,HIC,2022,reported,7261357.0,19894.13,2.212,Not stated,,
+AZE,Azerbaijan,UN member,Eur. & Cent. Asia,UMIC,2022,modelled (World Bank 2022 baseline),4136467.0,11332.79,1.105,,,Reported figure is from 2020 (older than cutoff); modelled 2022 value used
+BHS,Bahamas,UN member,L. Amer. & the Caribbean,HIC,2022,modelled (World Bank 2022 baseline),519298.16,1422.73,3.588,,check: implausible kg/person/day,Reported figure is from 2021 (older than cutoff); modelled 2022 value used
+BHR,Bahrain,UN member,Mid. East & N. Africa,HIC,2022,reported,1563486.52,4283.52,2.827,Not stated,check: implausible kg/person/day,
+BGD,Bangladesh,UN member,S. Asia,LMIC,2022,modelled (World Bank 2022 baseline),31644328.62,86696.79,0.515,,,Reported figure is from 2021 (older than cutoff); modelled 2022 value used
+BRB,Barbados,UN member,L. Amer. & the Caribbean,HIC,2022,modelled (World Bank 2022 baseline),407563.84,1116.61,3.955,,check: implausible kg/person/day,Reported figure is from 2021 (older than cutoff); modelled 2022 value used
+BLR,Belarus,UN member,Eur. & Cent. Asia,UMIC,2022,reported,3994300.0,10943.29,1.189,Point of transfer (transfer station),,
+BEL,Belgium,UN member,Eur. & Cent. Asia,HIC,2022,reported,7915113.0,21685.24,1.872,Not stated,,
+BLZ,Belize,UN member,L. Amer. & the Caribbean,UMIC,2022,modelled (World Bank 2022 baseline),113813.51,311.82,0.785,,,Reported figure is from 2015 (older than cutoff); modelled 2022 value used
+BEN,Benin,UN member,Sub-Saharan Africa,LMIC,2022,modelled (World Bank 2022 baseline),1492997.69,4090.4,0.301,,,No reported national figure; modelled 2022 value used
+BTN,Bhutan,UN member,S. Asia,LMIC,2022,modelled (World Bank 2022 baseline),60387.53,165.45,0.213,,,Reported figure is from 2019 (older than cutoff); modelled 2022 value used
+BOL,Bolivia,UN member,L. Amer. & the Caribbean,LMIC,2022,reported,3024025.0,8285.0,0.691,Not stated,,
+BIH,Bosnia,UN member,Eur. & Cent. Asia,UMIC,2022,reported,1184449.0,3245.07,1.009,Not stated,,
+BWA,Botswana,UN member,Sub-Saharan Africa,UMIC,2022,modelled (World Bank 2022 baseline),267424.84,732.67,0.303,,,Reported figure is from 2017 (older than cutoff); modelled 2022 value used
+BRA,Brazil,UN member,L. Amer. & the Caribbean,UMIC,2022,reported,81811506.0,224141.11,1.068,"Point of treatment or disposal (Landfill, dumpsite, incinerator, composting plant)",,
+BRN,Brunei,UN member,E. Asia & Pacific,HIC,2022,modelled (World Bank 2022 baseline),303148.05,830.54,1.831,,,Reported figure is from 2019 (older than cutoff); modelled 2022 value used
+BGR,Bulgaria,UN member,Eur. & Cent. Asia,UMIC,2022,modelled (World Bank 2022 baseline),3358339.54,9200.93,1.345,,,Reported figure is from 2018 (older than cutoff); modelled 2022 value used
+BFA,Burkina Faso,UN member,Sub-Saharan Africa,LIC,2022,modelled (World Bank 2022 baseline),465239.84,1274.63,0.057,,,Reported figure is from 2021 (older than cutoff); modelled 2022 value used
+BDI,Burundi,UN member,Sub-Saharan Africa,LIC,2022,modelled (World Bank 2022 baseline),374734.87,1026.67,0.078,,,No reported national figure; modelled 2022 value used
+KHM,Cambodia,UN member,E. Asia & Pacific,LMIC,2022,modelled (World Bank 2022 baseline),5168116.84,14159.22,0.829,,,Reported figure is from 2020 (older than cutoff); modelled 2022 value used
+CMR,Cameroon,UN member,Sub-Saharan Africa,LMIC,2022,reported,6000000.0,16438.36,0.603,Not stated,,
+CAN,Canada,UN member,N. Amer.,HIC,2022,modelled (World Bank 2022 baseline),31783357.14,87077.69,2.257,,,Reported figure is from 2018 (older than cutoff); modelled 2022 value used
+CPV,Cape Verde,UN member,Sub-Saharan Africa,LMIC,2022,modelled (World Bank 2022 baseline),180233.43,493.79,0.952,,,Reported figure is from 2015 (older than cutoff); modelled 2022 value used
+CAF,Central African Republic,UN member,Sub-Saharan Africa,LIC,2022,modelled (World Bank 2022 baseline),1364646.84,3738.76,0.729,,,Reported figure is from 2014 (older than cutoff); modelled 2022 value used
+TCD,Chad,UN member,Sub-Saharan Africa,LIC,2022,modelled (World Bank 2022 baseline),1022677.41,2801.86,0.154,,,No reported national figure; modelled 2022 value used
+CHL,Chile,UN member,L. Amer. & the Caribbean,HIC,2022,reported,8685825.91,23796.78,1.22,"Point of treatment or disposal (Landfill, dumpsite, incinerator, composting plant)",,
+CHN,China,UN member,E. Asia & Pacific,UMIC,2022,reported,502607447.97,1377006.71,0.966,Point of transfer (transfer station for urban),,
+COL,Colombia,UN member,L. Amer. & the Caribbean,UMIC,2022,reported,14423329.7,39515.97,0.768,"Point of treatment or disposal (Landfill, dumpsite, incinerator, composting plant)",,
+COM,Comoros,UN member,Sub-Saharan Africa,LMIC,2023,reported,110704.5,303.3,0.36,Not stated,,
+COG,Congo - Brazzaville,UN member,Sub-Saharan Africa,LMIC,2022,modelled (World Bank 2022 baseline),853424.2,2338.15,0.392,,,Reported figure is from 2012 (older than cutoff); modelled 2022 value used
+COD,Congo - Kinshasa,UN member,Sub-Saharan Africa,LIC,2022,modelled (World Bank 2022 baseline),22832036.82,62553.53,0.621,,,Reported figure is from 2012 (older than cutoff); modelled 2022 value used
+CRI,Costa Rica,UN member,L. Amer. & the Caribbean,UMIC,2022,modelled (World Bank 2022 baseline),1653777.56,4530.9,0.894,,,Reported figure is from 2021 (older than cutoff); modelled 2022 value used
+HRV,Croatia,UN member,Eur. & Cent. Asia,HIC,2022,reported,1844382.0,5053.1,1.292,"Point of generation (household, business, institution)",,
+CUB,Cuba,UN member,L. Amer. & the Caribbean,UMIC,2022,modelled (World Bank 2022 baseline),4612956.95,12638.24,1.141,,,Reported figure is from 2021 (older than cutoff); modelled 2022 value used
+CYP,Cyprus,UN member,Eur. & Cent. Asia,HIC,2022,reported,614620.0,1683.89,1.271,Not stated,,
+CZE,Czechia,UN member,Eur. & Cent. Asia,HIC,2022,modelled (World Bank 2022 baseline),5905029.35,16178.16,1.538,,,Reported figure is from 2021 (older than cutoff); modelled 2022 value used
+CIV,Côte d’Ivoire,UN member,Sub-Saharan Africa,LMIC,2022,modelled (World Bank 2022 baseline),5269506.36,14437.0,0.481,,,Reported figure is from 2021 (older than cutoff); modelled 2022 value used
+DNK,Denmark,UN member,Eur. & Cent. Asia,HIC,2022,modelled (World Bank 2022 baseline),4549906.35,12465.5,2.122,,,Reported figure is from 2021 (older than cutoff); modelled 2022 value used
+DJI,Djibouti,UN member,Mid. East & N. Africa,LMIC,2022,modelled (World Bank 2022 baseline),189509.54,519.2,0.46,,,No reported national figure; modelled 2022 value used
+DMA,Dominica,UN member,L. Amer. & the Caribbean,UMIC,2022,reported,13000.0,35.62,0.532,Not stated,,
+DOM,Dominican Republic,UN member,L. Amer. & the Caribbean,UMIC,2022,modelled (World Bank 2022 baseline),4420106.0,12109.88,1.083,,,Reported figure is from 2021 (older than cutoff); modelled 2022 value used
+ECU,Ecuador,UN member,L. Amer. & the Caribbean,UMIC,2022,reported,5253810.0,14394.0,0.811,Point of transfer (transfer station),,
+EGY,Egypt,UN member,Mid. East & N. Africa,LMIC,2022,modelled (World Bank 2022 baseline),26957734.49,73856.81,0.661,,,Reported figure is from 2021 (older than cutoff); modelled 2022 value used
+SLV,El Salvador,UN member,L. Amer. & the Caribbean,UMIC,2022,modelled (World Bank 2022 baseline),1572086.56,4307.09,0.687,,,Reported figure is from 2021 (older than cutoff); modelled 2022 value used
+GNQ,Equatorial Guinea,UN member,Sub-Saharan Africa,UMIC,2022,modelled (World Bank 2022 baseline),198323.67,543.35,0.305,,,Reported figure is from 2016 (older than cutoff); modelled 2022 value used
+ERI,Eritrea,UN member,Sub-Saharan Africa,LIC,2022,modelled (World Bank 2022 baseline),219099.43,600.27,0.178,,,No reported national figure; modelled 2022 value used
+EST,Estonia,UN member,Eur. & Cent. Asia,HIC,2022,reported,495000.0,1356.16,1.017,Not stated,,
+SWZ,Eswatini,UN member,Sub-Saharan Africa,LMIC,2022,modelled (World Bank 2022 baseline),268654.44,736.04,0.607,,,Reported figure is from 2017 (older than cutoff); modelled 2022 value used
+ETH,Ethiopia,UN member,Sub-Saharan Africa,LIC,2022,modelled (World Bank 2022 baseline),4936315.91,13524.15,0.109,,,Reported figure is from 2020 (older than cutoff); modelled 2022 value used
+FJI,Fiji,UN member,E. Asia & Pacific,UMIC,2022,modelled (World Bank 2022 baseline),182734.79,500.64,0.546,,,Reported figure is from 2021 (older than cutoff); modelled 2022 value used
+FIN,Finland,UN member,Eur. & Cent. Asia,HIC,2022,reported,2898043.0,7939.84,1.431,"Point of generation (household, business, institution)",,
+FRA,France,UN member,Eur. & Cent. Asia,HIC,2022,reported,36606000.0,100290.41,1.516,"Point of generation (household, business, institution)",,
+GAB,Gabon,UN member,Sub-Saharan Africa,UMIC,2022,modelled (World Bank 2022 baseline),427477.08,1171.17,0.487,,,Reported figure is from 2017 (older than cutoff); modelled 2022 value used
+GMB,Gambia,UN member,Sub-Saharan Africa,LIC,2022,modelled (World Bank 2022 baseline),387304.66,1061.11,0.407,,,Reported figure is from 2014 (older than cutoff); modelled 2022 value used
+GEO,Georgia,UN member,Eur. & Cent. Asia,UMIC,2022,modelled (World Bank 2022 baseline),1202056.52,3293.31,0.871,,,Reported figure is from 2019 (older than cutoff); modelled 2022 value used
+DEU,Germany,UN member,Eur. & Cent. Asia,HIC,2022,reported,49699000.0,136161.64,1.625,Point of transfer (transfer station),,
+GHA,Ghana,UN member,Sub-Saharan Africa,LMIC,2022,modelled (World Bank 2022 baseline),3976073.98,10893.35,0.332,,,Reported figure is from 2017 (older than cutoff); modelled 2022 value used
+GRC,Greece,UN member,Eur. & Cent. Asia,HIC,2022,modelled (World Bank 2022 baseline),5421550.55,14853.56,1.418,,,Reported figure is from 2021 (older than cutoff); modelled 2022 value used
+GRD,Grenada,UN member,L. Amer. & the Caribbean,UMIC,2022,reported,34000.0,93.15,0.797,Not stated,,
+GTM,Guatemala,UN member,L. Amer. & the Caribbean,UMIC,2022,modelled (World Bank 2022 baseline),6730814.15,18440.59,1.041,,,Reported figure is from 2021 (older than cutoff); modelled 2022 value used
+GIN,Guinea,UN member,Sub-Saharan Africa,LMIC,2022,modelled (World Bank 2022 baseline),1568192.34,4296.42,0.31,,,No reported national figure; modelled 2022 value used
+GNB,Guinea-Bissau,UN member,Sub-Saharan Africa,LIC,2022,modelled (World Bank 2022 baseline),151577.42,415.28,0.199,,,No reported national figure; modelled 2022 value used
+GUY,Guyana,UN member,L. Amer. & the Caribbean,HIC,2022,modelled (World Bank 2022 baseline),260225.96,712.95,0.87,,,Reported figure is from 2021 (older than cutoff); modelled 2022 value used
+HTI,Haiti,UN member,L. Amer. & the Caribbean,LMIC,2022,modelled (World Bank 2022 baseline),2759481.92,7560.22,0.661,,,Reported figure is from 2021 (older than cutoff); modelled 2022 value used
+HND,Honduras,UN member,L. Amer. & the Caribbean,LMIC,2022,modelled (World Bank 2022 baseline),3354537.55,9190.51,0.886,,,Reported figure is from 2021 (older than cutoff); modelled 2022 value used
+HUN,Hungary,UN member,Eur. & Cent. Asia,HIC,2022,reported,3911000.0,10715.07,1.106,"Point of treatment or disposal (Landfill, dumpsite, incinerator, composting plant)",,
+ISL,Iceland,UN member,Eur. & Cent. Asia,HIC,2022,reported,227000.0,621.92,1.653,Point of transfer (transfer station),,
+IND,India,UN member,S. Asia,LMIC,2022,modelled (World Bank 2022 baseline),209781997.49,574745.2,0.405,,,Reported figure is from 2021 (older than cutoff); modelled 2022 value used
+IDN,Indonesia,UN member,E. Asia & Pacific,UMIC,2023,reported,55439035.89,151887.77,0.542,Not stated,,
+IRN,Iran,UN member,Mid. East & N. Africa,LMIC,2022,reported,20453099.59,56035.89,0.63,Not stated,,
+IRQ,Iraq,UN member,Mid. East & N. Africa,UMIC,2022,modelled (World Bank 2022 baseline),18034279.31,49408.98,1.135,,,Reported figure is from 2019 (older than cutoff); modelled 2022 value used
+IRL,Ireland,UN member,Eur. & Cent. Asia,HIC,2022,modelled (World Bank 2022 baseline),3240493.28,8878.06,1.757,,,Reported figure is from 2021 (older than cutoff); modelled 2022 value used
+ISR,Israel,UN member,Mid. East & N. Africa,HIC,2022,reported,6189622.0,16957.87,1.881,Not stated,,
+ITA,Italy,UN member,Eur. & Cent. Asia,HIC,2022,reported,29051310.0,79592.63,1.334,Point of transfer (transfer station),,
+JAM,Jamaica,UN member,L. Amer. & the Caribbean,UMIC,2022,modelled (World Bank 2022 baseline),1267177.92,3471.72,1.223,,,Reported figure is from 2021 (older than cutoff); modelled 2022 value used
+JPN,Japan,UN member,E. Asia & Pacific,HIC,2022,reported,40344000.0,110531.51,0.882,Point of transfer (transfer station),,
+JOR,Jordan,UN member,Mid. East & N. Africa,LMIC,2022,modelled (World Bank 2022 baseline),3768839.38,10325.59,0.925,,,Reported figure is from 2020 (older than cutoff); modelled 2022 value used
+KAZ,Kazakhstan,UN member,Eur. & Cent. Asia,UMIC,2023,reported,4142952.0,11350.55,0.562,Point of transfer (transfer station),,
+KEN,Kenya,UN member,Sub-Saharan Africa,LMIC,2022,modelled (World Bank 2022 baseline),3596046.9,9852.18,0.183,,,Reported figure is from 2021 (older than cutoff); modelled 2022 value used
+KIR,Kiribati,UN member,E. Asia & Pacific,LMIC,2022,modelled (World Bank 2022 baseline),14747.38,40.4,0.312,,,Reported figure is from 2021 (older than cutoff); modelled 2022 value used
+KWT,Kuwait,UN member,Mid. East & N. Africa,HIC,2023,reported,3827000.0,10484.93,2.187,"Point of treatment or disposal (Landfill, dumpsite, incinerator, composting plant)",,
+KGZ,Kyrgyzstan,UN member,Eur. & Cent. Asia,LMIC,2023,reported,1957585.92,5363.25,0.764,Not stated,,
+LAO,Laos,UN member,E. Asia & Pacific,LMIC,2022,modelled (World Bank 2022 baseline),455560.94,1248.11,0.166,,,Reported figure is from 2015 (older than cutoff); modelled 2022 value used
+LVA,Latvia,UN member,Eur. & Cent. Asia,HIC,2022,modelled (World Bank 2022 baseline),871625.3,2388.01,1.272,,,Reported figure is from 2021 (older than cutoff); modelled 2022 value used
+LBN,Lebanon,UN member,Mid. East & N. Africa,LMIC,2022,modelled (World Bank 2022 baseline),2067615.28,5664.7,0.989,,,Reported figure is from 2021 (older than cutoff); modelled 2022 value used
+LSO,Lesotho,UN member,Sub-Saharan Africa,LMIC,2022,modelled (World Bank 2022 baseline),178344.19,488.61,0.215,,,No reported national figure; modelled 2022 value used
+LBR,Liberia,UN member,Sub-Saharan Africa,LIC,2022,modelled (World Bank 2022 baseline),274346.72,751.63,0.141,,,No reported national figure; modelled 2022 value used
+LBY,Libya,UN member,Mid. East & N. Africa,UMIC,2022,modelled (World Bank 2022 baseline),4123953.96,11298.5,1.574,,,Reported figure is from 2014 (older than cutoff); modelled 2022 value used
+LIE,Liechtenstein,UN member,Eur. & Cent. Asia,HIC,2022,reported,32424.0,88.83,2.268,Not stated,,
+LTU,Lithuania,UN member,Eur. & Cent. Asia,HIC,2022,reported,1317000.0,3608.22,1.292,Not stated,,
+LUX,Luxembourg,UN member,Eur. & Cent. Asia,HIC,2022,reported,465501.39,1275.35,1.975,Not stated,,
+MDG,Madagascar,UN member,Sub-Saharan Africa,LIC,2022,modelled (World Bank 2022 baseline),3652904.05,10007.96,0.333,,,Reported figure is from 2019 (older than cutoff); modelled 2022 value used
+MWI,Malawi,UN member,Sub-Saharan Africa,LIC,2022,modelled (World Bank 2022 baseline),3420594.89,9371.49,0.462,,,Reported figure is from 2018 (older than cutoff); modelled 2022 value used
+MYS,Malaysia,UN member,E. Asia & Pacific,UMIC,2022,modelled (World Bank 2022 baseline),18451974.74,50553.36,1.466,,,Reported figure is from 2012 (older than cutoff); modelled 2022 value used
+MDV,Maldives,UN member,S. Asia,UMIC,2022,modelled (World Bank 2022 baseline),225022.0,616.5,1.179,,,Reported figure is from 2019 (older than cutoff); modelled 2022 value used
+MLI,Mali,UN member,Sub-Saharan Africa,LIC,2022,modelled (World Bank 2022 baseline),1709132.77,4682.56,0.206,,,No reported national figure; modelled 2022 value used
+MLT,Malta,UN member,Mid. East & N. Africa,HIC,2022,reported,306109.15,838.66,1.592,Not stated,,
+MHL,Marshall Islands,UN member,E. Asia & Pacific,UMIC,2022,modelled (World Bank 2022 baseline),20050.53,54.93,1.35,,,Reported figure is from 2019 (older than cutoff); modelled 2022 value used
+MRT,Mauritania,UN member,Sub-Saharan Africa,LMIC,2022,modelled (World Bank 2022 baseline),562643.61,1541.49,0.321,,,Reported figure is from 2016 (older than cutoff); modelled 2022 value used
+MUS,Mauritius,UN member,Sub-Saharan Africa,UMIC,2022,reported,473983.0,1298.58,1.016,"Point of treatment or disposal (Landfill, dumpsite, incinerator, composting plant)",,
+MEX,Mexico,UN member,L. Amer. & the Caribbean,UMIC,2022,modelled (World Bank 2022 baseline),48785540.59,133659.02,1.044,,,Reported figure is from 2021 (older than cutoff); modelled 2022 value used
+FSM,Micronesia,UN member,E. Asia & Pacific,LMIC,2022,reported,27375.0,75.0,0.67,Not stated,,
+MDA,Moldova,UN member,Eur. & Cent. Asia,UMIC,2022,modelled (World Bank 2022 baseline),948656.55,2599.06,0.867,,,Reported figure is from 2020 (older than cutoff); modelled 2022 value used
+MCO,Monaco,UN member,Eur. & Cent. Asia,HIC,2024,reported,46000.0,126.03,3.25,Not stated,check: implausible kg/person/day,
+MNG,Mongolia,UN member,E. Asia & Pacific,LMIC,2022,modelled (World Bank 2022 baseline),1662827.35,4555.69,1.355,,,Reported figure is from 2019 (older than cutoff); modelled 2022 value used
+MNE,Montenegro,UN member,Eur. & Cent. Asia,UMIC,2022,reported,335797.6,919.99,1.529,Not stated,,
+MAR,Morocco,UN member,Mid. East & N. Africa,LMIC,2022,modelled (World Bank 2022 baseline),7517551.22,20596.03,0.555,,,Reported figure is from 2021 (older than cutoff); modelled 2022 value used
+MOZ,Mozambique,UN member,Sub-Saharan Africa,LIC,2023,reported,4200000.0,11506.85,0.347,Not stated,,
+MMR,Myanmar,UN member,E. Asia & Pacific,LMIC,2022,modelled (World Bank 2022 baseline),6487191.73,17773.13,0.332,,,Reported figure is from 2019 (older than cutoff); modelled 2022 value used
+NAM,Namibia,UN member,Sub-Saharan Africa,UMIC,2022,modelled (World Bank 2022 baseline),740296.82,2028.21,0.711,,,No reported national figure; modelled 2022 value used
+NRU,Nauru,UN member,E. Asia & Pacific,HIC,2022,modelled (World Bank 2022 baseline),603.02,1.65,0.141,,,Reported figure is from 2020 (older than cutoff); modelled 2022 value used
+NPL,Nepal,UN member,S. Asia,LMIC,2022,modelled (World Bank 2022 baseline),1950375.85,5343.5,0.18,,,Reported figure is from 2020 (older than cutoff); modelled 2022 value used
+NLD,Netherlands,UN member,Eur. & Cent. Asia,HIC,2022,reported,8370000.0,22931.51,1.289,Not stated,,
+NZL,New Zealand,UN member,E. Asia & Pacific,HIC,2022,reported,3601300.0,9866.58,1.93,Not stated,,
+NIC,Nicaragua,UN member,L. Amer. & the Caribbean,LMIC,2022,modelled (World Bank 2022 baseline),1563208.77,4282.76,0.641,,,Reported figure is from 2021 (older than cutoff); modelled 2022 value used
+NER,Niger,UN member,Sub-Saharan Africa,LIC,2022,modelled (World Bank 2022 baseline),1856516.98,5086.35,0.204,,,Reported figure is from 2019 (older than cutoff); modelled 2022 value used
+NGA,Nigeria,UN member,Sub-Saharan Africa,LMIC,2022,modelled (World Bank 2022 baseline),45737275.03,125307.6,0.567,,,Reported figure is from 2021 (older than cutoff); modelled 2022 value used
+MKD,North Macedonia,UN member,Eur. & Cent. Asia,UMIC,2023,reported,878303.0,2406.31,1.311,Not stated,,
+NOR,Norway,UN member,Eur. & Cent. Asia,HIC,2022,reported,4189000.0,11476.71,2.116,Not stated,,
+OMN,Oman,UN member,Mid. East & N. Africa,HIC,2022,reported,3307951.05,9062.88,2.002,Not stated,,
+PAK,Pakistan,UN member,S. Asia,LMIC,2022,reported,48500000.0,132876.71,0.55,Not stated,,
+PLW,Palau,UN member,E. Asia & Pacific,UMIC,2022,modelled (World Bank 2022 baseline),11425.02,31.3,1.761,,,Reported figure is from 2017 (older than cutoff); modelled 2022 value used
+PSE,Palestine,UN observer,Mid. East & N. Africa,UMIC,2022,modelled (World Bank 2022 baseline),1577724.29,4322.53,0.825,,,Reported figure is from 2019 (older than cutoff); modelled 2022 value used
+PAN,Panama,UN member,L. Amer. & the Caribbean,HIC,2022,modelled (World Bank 2022 baseline),2054577.5,5628.98,1.288,,,Reported figure is from 2021 (older than cutoff); modelled 2022 value used
+PNG,Papua New Guinea,UN member,E. Asia & Pacific,LMIC,2022,modelled (World Bank 2022 baseline),1661789.95,4552.85,0.45,,,Reported figure is from 2019 (older than cutoff); modelled 2022 value used
+PRY,Paraguay,UN member,L. Amer. & the Caribbean,UMIC,2022,reported,2943098.08,8063.28,1.2,Not stated,,
+PER,Peru,UN member,L. Amer. & the Caribbean,UMIC,2022,modelled (World Bank 2022 baseline),10405827.04,28509.12,0.856,,,Reported figure is from 2021 (older than cutoff); modelled 2022 value used
+PHL,Philippines,UN member,E. Asia & Pacific,LMIC,2022,modelled (World Bank 2022 baseline),17440184.81,47781.33,0.421,,,Reported figure is from 2020 (older than cutoff); modelled 2022 value used
+POL,Poland,UN member,Eur. & Cent. Asia,HIC,2022,reported,13474922.79,36917.6,0.973,Not stated,,
+PRT,Portugal,UN member,Eur. & Cent. Asia,HIC,2022,reported,5274483.24,14450.64,1.389,Not stated,,
+QAT,Qatar,UN member,Mid. East & N. Africa,HIC,2022,modelled (World Bank 2022 baseline),1328224.11,3638.97,1.282,,,Reported figure is from 2020 (older than cutoff); modelled 2022 value used
+ROU,Romania,UN member,Eur. & Cent. Asia,HIC,2022,reported,5742000.0,15731.51,0.821,Not stated,,
+RUS,Russia,UN member,Eur. & Cent. Asia,UMIC,2022,reported,45867400.0,125664.11,0.864,Not stated,,
+RWA,Rwanda,UN member,Sub-Saharan Africa,LIC,2022,modelled (World Bank 2022 baseline),1186144.64,3249.71,0.241,,,No reported national figure; modelled 2022 value used
+WSM,Samoa,UN member,E. Asia & Pacific,LMIC,2022,modelled (World Bank 2022 baseline),17710.77,48.52,0.226,,,Reported figure is from 2020 (older than cutoff); modelled 2022 value used
+SMR,San Marino,UN member,Eur. & Cent. Asia,HIC,2022,modelled (World Bank 2022 baseline),17584.81,48.18,1.404,,,Reported figure is from 2019 (older than cutoff); modelled 2022 value used
+SAU,Saudi Arabia,UN member,Mid. East & N. Africa,HIC,2022,reported,20751133.0,56852.42,1.806,Not stated,,
+SEN,Senegal,UN member,Sub-Saharan Africa,LMIC,2022,modelled (World Bank 2022 baseline),3106279.24,8510.35,0.488,,,Reported figure is from 2021 (older than cutoff); modelled 2022 value used
+SRB,Serbia,UN member,Eur. & Cent. Asia,UMIC,2022,modelled (World Bank 2022 baseline),2907617.61,7966.08,1.172,,,Reported figure is from 2021 (older than cutoff); modelled 2022 value used
+SYC,Seychelles,UN member,Sub-Saharan Africa,HIC,2022,modelled (World Bank 2022 baseline),66239.7,181.48,1.459,,,Reported figure is from 2012 (older than cutoff); modelled 2022 value used
+SLE,Sierra Leone,UN member,Sub-Saharan Africa,LIC,2022,modelled (World Bank 2022 baseline),433435.11,1187.49,0.145,,,No reported national figure; modelled 2022 value used
+SGP,Singapore,UN member,E. Asia & Pacific,HIC,2023,reported,1851948.62,5073.83,0.88,Not stated,,
+SVK,Slovakia,UN member,Eur. & Cent. Asia,HIC,2022,reported,2597456.7,7116.32,1.311,Not stated,,
+SVN,Slovenia,UN member,Eur. & Cent. Asia,HIC,2022,reported,1064576.0,2916.65,1.38,Not stated,,
+SLB,Solomon Islands,UN member,E. Asia & Pacific,LMIC,2022,modelled (World Bank 2022 baseline),229828.19,629.67,0.816,,,Reported figure is from 2017 (older than cutoff); modelled 2022 value used
+SOM,Somalia,UN member,Sub-Saharan Africa,LIC,2022,modelled (World Bank 2022 baseline),828483.63,2269.82,0.129,,,No reported national figure; modelled 2022 value used
+ZAF,South Africa,UN member,Sub-Saharan Africa,UMIC,2023,reported,7995632.3,21905.84,0.349,Not stated,,
+KOR,South Korea,UN member,E. Asia & Pacific,HIC,2022,reported,23038561.4,63119.35,1.218,Not stated,,
+SSD,South Sudan,UN member,Sub-Saharan Africa,LIC,2022,modelled (World Bank 2022 baseline),383353.54,1050.28,0.096,,,No reported national figure; modelled 2022 value used
+ESP,Spain,UN member,Eur. & Cent. Asia,HIC,2022,modelled (World Bank 2022 baseline),28570221.09,78274.58,1.639,,,Reported figure is from 2021 (older than cutoff); modelled 2022 value used
+LKA,Sri Lanka,UN member,S. Asia,LMIC,2022,modelled (World Bank 2022 baseline),2847753.7,7802.06,0.343,,,Reported figure is from 2021 (older than cutoff); modelled 2022 value used
+KNA,St. Kitts & Nevis,UN member,L. Amer. & the Caribbean,HIC,2022,reported,33000.0,90.41,1.936,Not stated,,
+LCA,St. Lucia,UN member,L. Amer. & the Caribbean,UMIC,2022,reported,81705.25,223.85,1.254,Not stated,,
+VCT,St. Vincent & Grenadines,UN member,L. Amer. & the Caribbean,UMIC,2022,reported,31886.4,87.36,0.853,Not stated,,
+SDN,Sudan,UN member,Sub-Saharan Africa,LIC,2022,modelled (World Bank 2022 baseline),7501319.74,20551.56,0.422,,,Reported figure is from 2018 (older than cutoff); modelled 2022 value used
+SUR,Suriname,UN member,L. Amer. & the Caribbean,UMIC,2022,reported,140000.0,383.56,0.618,"Point of generation (household, business, institution)",,
+SWE,Sweden,UN member,Eur. & Cent. Asia,HIC,2022,reported,4139000.0,11339.73,1.085,Not stated,,
+CHE,Switzerland,UN member,Eur. & Cent. Asia,HIC,2022,reported,5940000.0,16273.97,1.862,Not stated,,
+SYR,Syria,UN member,Mid. East & N. Africa,LIC,2022,modelled (World Bank 2022 baseline),4203269.35,11515.81,0.526,,,Reported figure is from 2018 (older than cutoff); modelled 2022 value used
+STP,São Tomé & Príncipe,UN member,Sub-Saharan Africa,LMIC,2022,modelled (World Bank 2022 baseline),29105.07,79.74,0.356,,,Reported figure is from 2015 (older than cutoff); modelled 2022 value used
+TJK,Tajikistan,UN member,Eur. & Cent. Asia,LMIC,2022,modelled (World Bank 2022 baseline),1692923.05,4638.15,0.46,,,Reported figure is from 2018 (older than cutoff); modelled 2022 value used
+TZA,Tanzania,UN member,Sub-Saharan Africa,LMIC,2022,modelled (World Bank 2022 baseline),15450695.06,42330.67,0.664,,,Reported figure is from 2021 (older than cutoff); modelled 2022 value used
+THA,Thailand,UN member,E. Asia & Pacific,UMIC,2023,reported,26950000.0,73835.62,1.03,Not stated,,
+TLS,Timor-Leste,UN member,E. Asia & Pacific,LMIC,2022,modelled (World Bank 2022 baseline),201508.21,552.08,0.405,,,Reported figure is from 2021 (older than cutoff); modelled 2022 value used
+TGO,Togo,UN member,Sub-Saharan Africa,LIC,2023,reported,348000.0,953.42,0.104,Not stated,,
+TON,Tonga,UN member,E. Asia & Pacific,UMIC,2022,modelled (World Bank 2022 baseline),9232.14,25.29,0.24,,,Reported figure is from 2021 (older than cutoff); modelled 2022 value used
+TTO,Trinidad & Tobago,UN member,L. Amer. & the Caribbean,HIC,2022,modelled (World Bank 2022 baseline),788197.82,2159.45,1.448,,,Reported figure is from 2021 (older than cutoff); modelled 2022 value used
+TUN,Tunisia,UN member,Mid. East & N. Africa,LMIC,2022,modelled (World Bank 2022 baseline),2949292.61,8080.25,0.669,,,Reported figure is from 2020 (older than cutoff); modelled 2022 value used
+TKM,Turkmenistan,UN member,Eur. & Cent. Asia,UMIC,2022,modelled (World Bank 2022 baseline),860065.03,2356.34,0.329,,,Reported figure is from 2017 (older than cutoff); modelled 2022 value used
+TUV,Tuvalu,UN member,E. Asia & Pacific,UMIC,2022,modelled (World Bank 2022 baseline),1488.49,4.08,0.405,,,Reported figure is from 2019 (older than cutoff); modelled 2022 value used
+TUR,Türkiye,UN member,Eur. & Cent. Asia,UMIC,2022,reported,30283757.0,82969.2,0.954,Point of transfer (transfer station),,
+UGA,Uganda,UN member,Sub-Saharan Africa,LIC,2022,reported,10554334.0,28915.98,0.62,,,
+UKR,Ukraine,UN member,Eur. & Cent. Asia,LMIC,2023,reported,9349117.91,25614.02,0.674,Point of transfer (transfer station),,
+ARE,United Arab Emirates,UN member,Mid. East & N. Africa,HIC,2022,reported,4617980.0,12652.0,1.26,Not stated,,
+GBR,United Kingdom,UN member,Eur. & Cent. Asia,HIC,2022,modelled (World Bank 2022 baseline),31945349.05,87521.5,1.289,,,Reported figure is from 2021 (older than cutoff); modelled 2022 value used
+USA,United States,UN member,N. Amer.,HIC,2022,modelled (World Bank 2022 baseline),274658376.58,752488.7,2.209,,,Reported figure is from 2018 (older than cutoff); modelled 2022 value used
+URY,Uruguay,UN member,L. Amer. & the Caribbean,HIC,2022,modelled (World Bank 2022 baseline),1273687.67,3489.56,1.028,,,Reported figure is from 2021 (older than cutoff); modelled 2022 value used
+UZB,Uzbekistan,UN member,Eur. & Cent. Asia,LMIC,2022,reported,6816840.5,18676.28,0.54,Not stated,,
+VUT,Vanuatu,UN member,E. Asia & Pacific,LMIC,2022,modelled (World Bank 2022 baseline),40184.55,110.09,0.356,,,Reported figure is from 2019 (older than cutoff); modelled 2022 value used
+VEN,Venezuela,UN member,L. Amer. & the Caribbean,UMC (2019),2022,modelled (World Bank 2022 baseline),8281900.96,22690.14,0.805,,,Reported figure is from 2020 (older than cutoff); modelled 2022 value used
+VNM,Vietnam,UN member,E. Asia & Pacific,LMIC,2022,modelled (World Bank 2022 baseline),21071803.28,57730.97,0.581,,,Reported figure is from 2015 (older than cutoff); modelled 2022 value used
+YEM,Yemen,UN member,Mid. East & N. Africa,LIC,2022,modelled (World Bank 2022 baseline),5764173.52,15792.26,0.419,,,Reported figure is from 2016 (older than cutoff); modelled 2022 value used
+ZMB,Zambia,UN member,Sub-Saharan Africa,LMIC,2022,reported,4352733.19,11925.3,0.6,"Point of treatment or disposal (Landfill, dumpsite, incinerator, composting plant)",,
+ZWE,Zimbabwe,UN member,Sub-Saharan Africa,LMIC,2022,modelled (World Bank 2022 baseline),2665433.73,7302.56,0.458,,,Reported figure is from 2020 (older than cutoff); modelled 2022 value used
